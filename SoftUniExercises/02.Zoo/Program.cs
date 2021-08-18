@@ -15,7 +15,6 @@ namespace _02.Zoo
 			Gorilla gorilla = new Gorilla(name);
 			Bear bear = new Bear(name);
 
-			// TODO
 			Console.WriteLine(animal.Name, reptile, mammal, lizard, snake, gorilla, bear);
 		}
 	}
